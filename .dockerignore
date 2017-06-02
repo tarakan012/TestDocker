@@ -1,3 +1,6 @@
 *.cpp
 README.md
 .gitattributes
+UCoreTestDocker
+.git
+BoostTestDockerCmake
